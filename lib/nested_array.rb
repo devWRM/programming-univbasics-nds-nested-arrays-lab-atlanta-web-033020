@@ -40,6 +40,7 @@ def sorted_matrix
         sorted_array.push[0] = ["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"].sort
         sorted_array.push[1] = ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"].sort
 
+  sorted_array
 
 
 end
